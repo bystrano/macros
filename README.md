@@ -1,6 +1,8 @@
 Macros
 ======
 
+**Cette version est obsolète, le code de ce plugin est maintentant sur [spip-zone](http://zone.spip.org/trac/spip-zone/browser/_plugins_/macros/trunk). Vous pouvez télécharger une version à jour directement depuis SPIP, ou sur [plugin.spip.net](http://plugins.spip.net/macros.html).**
+
 Ce plugin propose un système de macros pour les squelettes SPIP. C'est une
 façon d'étendre le mécanisme de squelettes, et de contourner certaines de
 ses limitations.
